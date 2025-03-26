@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'MinioProgress',
   packages = ['MinioProgress'],
-  version = '0.1.0',
+  version = '0.1.1',
   license='MIT',
   description = 'Progress Bar for Minio',
   author = 'LimanOP',
   author_email = 'liman@realiman.lol',
   url = 'https://github.com/limangit/MinioProgress',
-  download_url = 'https://github.com/limangti/MinioProgress',
+  download_url = 'https://github.com/LimanGit/MinioProgress/archive/refs/tags/v0.1.1.zip',
   keywords = ['Minio', 'S3', 'Python', 'Progress'],
   install_requires=[],
   classifiers=[
